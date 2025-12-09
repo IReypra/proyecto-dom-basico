@@ -27,5 +27,5 @@ function cambiarTexto(){
         console.log("Has cambiado el texto.");
     })
 }
-// Soy Pablo para la branch de Paula
-// Roberto no sabe escribir feature
+
+// Me falta hacer el import de caja y export de funcion
